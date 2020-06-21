@@ -1,2 +1,2 @@
 # Cyn - Data
-### Comenzando, Aprendiendo, Curioseando
+### Starting, Learning, Searching
